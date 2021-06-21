@@ -89,7 +89,7 @@ p {
 
 
 @media (min-width: 576px) {
-    .small-photo {
+    body {
         display:none;
     }
 }
