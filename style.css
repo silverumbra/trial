@@ -88,3 +88,16 @@ p {
 }
 
 
+@media (max-width: 600px) {
+
+.navigation-links {
+  flex-direction: row;
+}
+
+.nav-links {
+  flex-direction: row;
+}
+.primary-link {
+  display: block;
+}
+}
