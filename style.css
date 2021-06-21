@@ -88,8 +88,3 @@ p {
 }
 
 
-@media (min-width: 576px) {
-    body {
-        display:none;
-    }
-}
